@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:010d12,50:00B4D8,100:010d12&height=220&section=header&text=SYZAAR%2B&fontSize=72&fontAlign=50&fontAlignY=55&fontColor=ffffff&animation=fadeIn&desc=Workforce%20Performance%20%26%20Productivity%20Analytics&descAlign=50&descAlignY=75&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:010d12,40:003d4f,100:010d12&height=200&section=header&text=SYZAAR%2B&fontSize=80&fontAlign=50&fontAlignY=50&fontColor=00B4D8&animation=blinking&desc=Workforce%20Performance%20%26%20Productivity%20Analytics&descAlign=50&descAlignY=72&descSize=15&descColor=ffffff" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=4000&pause=800&color=00B4D8&center=true&vCenter=true&width=700&height=40&lines=%E2%96%B6+COMPUTER+VISION+%7C+DJANGO+%7C+AI-POWERED;%E2%97%8F+SMART+MONITORING+FOR+INDUSTRIAL+ENVIRONMENTS;%E2%96%B6+WORKFORCE+PERFORMANCE+%26+PRODUCTIVITY+ANALYTICS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Computer+Vision+%C2%B7+Django+%C2%B7+AI-Powered;Smart+Monitoring+for+Industrial+Environments"/>
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/%E2%96%B6+PYTHON-3.12-00B4D8?style=for-the-badge&labelColor=010d12&logo=python&logoColor=00B4D8"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%96%B6+DJANGO-5.0-00B4D8?style=for-the-badge&labelColor=010d12&logo=django&logoColor=00B4D8"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%88+OPENCV-4.8-00B4D8?style=for-the-badge&labelColor=010d12&logo=opencv&logoColor=00B4D8"/></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/%E2%96%A3+LICENSE-MIT-0077A8?style=for-the-badge&labelColor=010d12"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%96%B2+UI-COMPLETE-00B4D8?style=for-the-badge&labelColor=010d12"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%96%B2+AI+ENGINE-IN+DEVELOPMENT-005f73?style=for-the-badge&labelColor=010d12"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3.12-00B4D8?style=flat-square&labelColor=010d12&logo=python&logoColor=00B4D8"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Django-5.0-00B4D8?style=flat-square&labelColor=010d12&logo=django&logoColor=00B4D8"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/OpenCV-4.8-00B4D8?style=flat-square&labelColor=010d12&logo=opencv&logoColor=00B4D8"/></a>&nbsp;
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0077A8?style=flat-square&labelColor=010d12"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/UI-Complete-00B4D8?style=flat-square&labelColor=010d12"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/AI_Engine-In_Development-005f73?style=flat-square&labelColor=010d12"/></a>
 
 <br/><br/>
 
@@ -21,13 +21,9 @@
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## `◈` Overview
-
-</div>
+<img src="https://img.shields.io/badge/──────────────────────────────%20OVERVIEW%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 <div align="center">
 
@@ -41,11 +37,9 @@ The user interface and experience layer are fully developed and production-ready
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<img src="https://img.shields.io/badge/──────────────────────────────%20FEATURES%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 <div align="center">
-
-## `◈` Core Features
 
 <small>
 
@@ -66,11 +60,11 @@ The user interface and experience layer are fully developed and production-ready
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<img src="https://img.shields.io/badge/─────────────────────────────%20TECH%20STACK%20─────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 <div align="center">
 
-## `◈` Technology Stack
+<small>
 
 | <sub>Layer</sub> | <sub>Technologies</sub> |
 |:----------------:|:-----------------------:|
@@ -80,27 +74,27 @@ The user interface and experience layer are fully developed and production-ready
 | <sub>**Computer Vision**</sub> | <sub>OpenCV 4.8</sub> |
 | <sub>**AI / ML**</sub> | <sub>TensorFlow / PyTorch *(Planned)*</sub> |
 
+</small>
+
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<img src="https://img.shields.io/badge/────────────────────────────%20SCREENSHOTS%20────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 <div align="center">
 
-## `◈` Screenshots
-
 <img src="Project_Picture/Image%20(2).png" width="80%"/>
 
-*`▶` Zone Configuration Interface — drag-and-drop zone definition*
+*Zone Configuration Interface — drag-and-drop zone definition*
 
 <br/>
 
 <img src="Project_Picture/Image%20(7).png" width="80%"/>
 
-*`▶` Dashboard Overview — live operational insights and activity monitoring*
+*Dashboard Overview — live operational insights and activity monitoring*
 
 </div>
 
@@ -108,11 +102,7 @@ The user interface and experience layer are fully developed and production-ready
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## `◈` Project Structure
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=00B4D8&center=false&vCenter=true&width=480&height=28&lines=%E2%96%B6+Repository+layout+%E2%80%94+Syzaar%2B"/>
+<img src="https://img.shields.io/badge/──────────────────────────%20PROJECT%20STRUCTURE%20──────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 ```
 Syzaar+/
@@ -150,68 +140,61 @@ Syzaar+/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<img src="https://img.shields.io/badge/────────────────────────────%20INSTALLATION%20────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
-## `◈` Installation
+> **Prerequisites:** Python 3.12 or higher · Git
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=00B4D8&center=false&vCenter=true&width=480&height=28&lines=%E2%96%B6+Prerequisites%3A+Python+3.12+or+higher+%C2%B7+Git"/>
-
-![Step](https://img.shields.io/badge/01-Clone_the_Repository-00B4D8?style=flat-square&labelColor=010d12)
+**`01`** Clone the repository
 
 ```bash
 git clone https://github.com/Amin-Moniry/syzaar-plus.git
 cd syzaar-plus
 ```
 
-![Step](https://img.shields.io/badge/02-Create_Virtual_Environment-00B4D8?style=flat-square&labelColor=010d12)
+**`02`** Create and activate a virtual environment
 
-**Windows**
 ```bash
+# Windows
 python -m venv venv
 .\venv\Scripts\activate
-```
-**macOS / Linux**
-```bash
+
+# macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-![Step](https://img.shields.io/badge/03-Install_Dependencies-00B4D8?style=flat-square&labelColor=010d12)
+**`03`** Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-![Step](https://img.shields.io/badge/04-Apply_Migrations-00B4D8?style=flat-square&labelColor=010d12)
+**`04`** Apply database migrations
 
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
 
-![Step](https://img.shields.io/badge/05-Create_Superuser-00B4D8?style=flat-square&labelColor=010d12)
+**`05`** Create a superuser account
 
 ```bash
 python manage.py createsuperuser
 ```
 
-![Step](https://img.shields.io/badge/06-Start_Dev_Server-00B4D8?style=flat-square&labelColor=010d12)
+**`06`** Start the development server
 
 ```bash
 python manage.py runserver
 ```
 
-The application will be available at `http://127.0.0.1:8000/`
+> The application will be available at `http://127.0.0.1:8000/`
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## `◈` Usage
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=00B4D8&center=false&vCenter=true&width=520&height=28&lines=%E2%96%B6+Access+%C2%B7+Configure+%C2%B7+Monitor"/>
+<img src="https://img.shields.io/badge/──────────────────────────────%20USAGE%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 1. Navigate to `http://127.0.0.1:8000/` and log in with your superuser credentials.
 2. Access the admin panel at `http://127.0.0.1:8000/admin/` for camera and zone configuration.
@@ -221,11 +204,7 @@ The application will be available at `http://127.0.0.1:8000/`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## `◈` Roadmap
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=00B4D8&center=false&vCenter=true&width=460&height=28&lines=%E2%96%B6+Planned+for+upcoming+versions"/>
+<img src="https://img.shields.io/badge/──────────────────────────────%20ROADMAP%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 - [ ] AI-powered workforce activity recognition
 - [ ] Dedicated AI model assignment per zone
@@ -238,9 +217,7 @@ The application will be available at `http://127.0.0.1:8000/`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## `◈` Contributing
+<img src="https://img.shields.io/badge/────────────────────────────%20CONTRIBUTING%20────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 1. Fork the repository via the **Fork** button on GitHub.
 2. Create a feature branch: `git checkout -b feature/your-feature-name`
@@ -252,11 +229,9 @@ The application will be available at `http://127.0.0.1:8000/`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 <div align="center">
 
-## `◈` License
+<img src="https://img.shields.io/badge/──────────────────────────────%20LICENSE%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 This project is distributed under the **MIT License**.
 
@@ -270,15 +245,13 @@ See the [LICENSE](LICENSE) file for full details.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 <div align="center">
 
-## `◈` Contact
+<img src="https://img.shields.io/badge/──────────────────────────────%20CONTACT%20──────────────────────────────-010d12?style=for-the-badge&labelColor=00B4D8&color=010d12"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=400&color=00B4D8&center=true&vCenter=true&width=500&height=30&lines=%E2%96%B6+Reach+out+through+any+channel+below"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=2500&pause=600&color=00B4D8&center=true&vCenter=true&width=420&height=28&lines=%E2%96%B6+Reach+out+through+any+channel+below"/>
 
 <br/>
 
@@ -292,20 +265,16 @@ See the [LICENSE](LICENSE) file for full details.
 
 [![Email](https://img.shields.io/badge/◈_EMAIL-amintivanix2%40gmail.com-00B4D8?style=for-the-badge&labelColor=010d12&logo=gmail&logoColor=00B4D8)](mailto:amintivanix2@gmail.com)
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=00B4D8&center=true&vCenter=true&width=700&height=40&lines=%E2%96%B6+Engineered+by+Amin+Moniry+%28AminTivanix2%29;%E2%97%8F+Transforming+Industrial+Operations+Through+AI;%E2%96%B6+Smart+%C2%B7+Scalable+%C2%B7+Reliable"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=16&duration=3500&pause=900&color=00B4D8&center=true&vCenter=true&width=700&height=40&lines=%E2%96%B6+Engineered+by+Amin+Moniry+%28AminTivanix2%29;%E2%97%8F+Transforming+Industrial+Operations+Through+AI;%E2%96%B6+Smart+%C2%B7+Scalable+%C2%B7+Reliable"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:010d12,50:00B4D8,100:010d12&height=160&section=footer&text=Thanks%20For%20Visiting&fontSize=32&fontAlign=50&fontAlignY=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:010d12,40:003d4f,100:010d12&height=140&section=footer&text=Thanks%20For%20Visiting&fontSize=28&fontAlign=50&fontAlignY=50&fontColor=00B4D8&animation=blinking" width="100%"/>
 
 </div>
